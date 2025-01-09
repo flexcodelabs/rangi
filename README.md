@@ -42,4 +42,4 @@ https://www.figma.com/community/file/1157058671138458897
 Plugin in Figma community:
 https://www.figma.com/community/plugin/1153959136228678599
 
-Built and maintained with ❤ by [Flexcode Labs](https://flexocelabs.com)
+Built and maintained with ❤ by [Flexcode Labs](https://flexcodelabs.com)
